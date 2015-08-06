@@ -1,0 +1,5 @@
+*.log
+*.pyc
+.tox/
+dist/
+pystock_client.egg-info/
